@@ -1,16 +1,16 @@
 # PortfolioTecnico2A
 ## Portfólio da Área Técnica da Escola S
-## Matheus Fernandes Duarte - 2A
-## São José, 2021
+### Matheus Fernandes Duarte, 16 anos - 2A
+### São José, 2021
 
 ## Resumo das qualificações
-• Pontualidade, criatividade e dedicação;
-• Habilidades comunicativas desenvolvidas;
-• Capacidade de trabalhar sob pressão (inteligência intrapessoal);
-• Habilidade com vendas e Marketing digital;
-• Liderança;
-• Habilidade com gestão de finanças pessoais;
-• Excelente relacionamento interpessoal.
+- Pontualidade, criatividade e dedicação;
+- Habilidades comunicativas desenvolvidas;
+- Capacidade de trabalhar sob pressão (inteligência intrapessoal);
+- Habilidade com vendas e Marketing digital;
+- Liderança;
+- Habilidade com gestão de finanças pessoais;
+- Excelente relacionamento interpessoal.
 
 
 ## Qualificações Técnicas
