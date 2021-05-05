@@ -1,9 +1,9 @@
 # PortfolioTecnico2A
-##Portfólio da Área Técnica da Escola S
-##Matheus Fernandes Duarte - 2A
-##São José, 2021
+## Portfólio da Área Técnica da Escola S
+## Matheus Fernandes Duarte - 2A
+## São José, 2021
 
-##Resumo das qualificações
+## Resumo das qualificações
 • Pontualidade, criatividade e dedicação;
 • Habilidades comunicativas desenvolvidas;
 • Capacidade de trabalhar sob pressão (inteligência intrapessoal);
@@ -13,7 +13,7 @@
 • Excelente relacionamento interpessoal.
 
 
-##Qualificações Técnicas
+## Qualificações Técnicas
 
 - Curso de Fundamentos das Relações Internacionais – FGV (30 horas).
 	
@@ -33,13 +33,13 @@
 
 - Representante do colégio Centro Educacional São Judas Tadeu na Olímpiada Brasileira de Matemática das Escolas Públicas na fase municipal do Nível 2 no ano de 2019. 
 
-- Conhecimento inicial em Java
+- Conhecimento inicial na linguagem Java
 
 - Conhecimento em Fundamentos de TI
 
 - Conhecimento em Fundamentos de Redes
 
-##Formação Acadêmica
+## Formação Acadêmica
  - Cursando o segundo ano do Ensino Médio pela Escola S de São José (antigo SESI SENAI).
  - Previsão de Término (Ensino Médio completo): dezembro de 2022.
 
@@ -50,6 +50,6 @@
  - Ensino Fundamental completo em 2019 pelo Centro Educacional São Judas Tadeu.
 
 
-##Idiomas
+## Idiomas
 - Inglês: avançado
 - Espanhol: intermediário
