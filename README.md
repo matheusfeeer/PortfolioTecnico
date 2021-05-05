@@ -1,5 +1,4 @@
-# PortfolioTecnico2A
-## Portfólio da Área Técnica da Escola S
+# Portfólio da Área Técnica da Escola S
 ### Matheus Fernandes Duarte, 16 anos - 2A
 ### São José, 2021
 
