@@ -40,11 +40,11 @@
 
 ## Formação Acadêmica
  - Cursando o segundo ano do Ensino Médio pela Escola S de São José (antigo SESI SENAI).
- - Previsão de Término (Ensino Médio completo): dezembro de 2022.
+   Previsão de Término (Ensino Médio completo): dezembro de 2022.
 
  - Cursando o curso Técnico em Desenvolvimento de Sistemas com duração total de 2 anos.
- - Início: 08/02/2021.
-	Previsão de Término: dezembro de 2022.
+   Início: 08/02/2021.
+   Previsão de Término: dezembro de 2022.
 
  - Ensino Fundamental completo em 2019 pelo Centro Educacional São Judas Tadeu.
 
