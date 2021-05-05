@@ -13,20 +13,7 @@
 
 
 ## Qualificações Técnicas
-
-- Curso de Fundamentos das Relações Internacionais – FGV (30 horas).
-	
-- Curso de Redes Sociais – conceitos e organização – FGV (5 horas).
-
 - Curso Copywriting – Rock University (4h30min).
-
-- Segundo melhor desempenho das turmas de primeiro ano na classificação geral na primeira realização do Simulado de ENEM – Geekie (2020) aplicado no Ensino Médio Integrado com Itinerário de Formação Técnica Profissional.
-
-- Melhor desempenho das turmas de primeiro ano na área de Matemática e suas Tecnologias na primeira realização do Simulado de ENEM – Geekie (2020), aplicado no Ensino Médio Integrado com Itinerário de Formação Técnica Profissional.
-
-- Melhor desempenho das turmas de primeiro ano na área de Ciências da Natureza e suas Tecnologias na primeira realização do Simulado de ENEM – Geekie (2020), aplicado no Ensino Médio Integrado com Itinerário de Formação Técnica Profissional.
-
-- Segundo melhor desempenho das turmas de primeiro ano na área de Ciências  Humanas e Sociais Aplicadas na primeira realização do Simulado de ENEM – Geekie (2020), aplicado no Ensino Médio Integrado com Itinerário de Formação Técnica Profissional.
 
 - Pacote Office – Word e PowerPoint – intermediários, Excel – básico.
 
