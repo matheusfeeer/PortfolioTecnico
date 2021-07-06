@@ -1,12 +1,10 @@
 #!/bin/bash
 #Inicia o código
 
-var=$(ls) #Variável = listagem do diretório vetor
-var1=${var/$1} # $1 é o primeiro argumento enviado para o script
-if [[ $var != $var1 ]] #Se a primeira variável foi diferente de $var1
+var=$(cat /etc/passwd | grep $1) #Variável = procura se a variável $1 existe dentro de /etc/passwd
+if [ -z $var ] # -z  se a variavel estiver vazia
 then #Faça
-	echo "O arquivo existe" #Escrever que o arquivo não existe
+        echo "O usuário n existe no sistema" #Escrever que o usuário não existe no sistema
 else #Caso contrário,
-	echo "Criando o arquivo $1 ..." #Avisa que está criando o arquivo (nome da variável $1)
-	touch $1 #Cria o arquivo
-fi #Finaliza o código
+        echo "O usuário já está cadastrado" #Escrever que o usuário já esta cadastrado
+fi #Finalizar o if
