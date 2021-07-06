@@ -57,3 +57,13 @@ else #Caso contrário,
 	echo "Criando o arquivo $1 ..." #Avisa que está criando o arquivo (nome da variável $1)
 	touch $1 #Cria o arquivo
 fi #Finaliza o código
+
+#!/bin/bash
+#Inicia o código
+
+if [ -z $1 ] #Se a variável 1 estiver vazia,
+then #Faça
+    echo "Erro, arquivo faltando" #Escrever que o arquivo está faltando
+else #Caso contrário, 
+    cat $1 | grep -i "incerteza" # opção -i ignora a diferença entre maiúsculo e minúsculo
+fi #Finaliza
