@@ -1,9 +1,15 @@
 #!/bin/bash
-#Inicia o código
 
-if [ -z $1 ] #Se -z
-then #Faça
-    echo "Erro, arquivo faltando" #Escrever que o arquivo está faltando
-else #Caso contrário, 
-    cat $1 | grep -i "incerteza" # opção -i ignora a diferença entre maiúsculo e minúsculo
-fi #Finaliza
+if [ $1 -gt 0 ]
+then
+    echo "O número é positivo."
+    
+elif [ $1 -eq 0 ]
+then
+    echo "O número é nulo."
+    
+elif [ $1 -lt 0 ]
+then
+    echo "O número é negativo."
+
+fi
