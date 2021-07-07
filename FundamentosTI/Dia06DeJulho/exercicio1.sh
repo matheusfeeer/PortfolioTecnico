@@ -1,4 +1,5 @@
-#Explicar linha por linha tudo que foi criado em sala
+#Autor: Matheus Fernandes Duarte
+#Descrição: Explicar linha por linha tudo que foi criado em sala
 
 #!/bin/bash 
 #Interpretador shell
