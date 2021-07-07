@@ -1,3 +1,6 @@
+#Autor: Matheus Fernandes Duarte
+#Receber como argumento um número inteiro, e exibir a mensagem “Positivo”, “Negativo” ou “Nulo”, conforme o caso.
+
 #!/bin/bash
 
 if [ $1 -gt 0 ]
