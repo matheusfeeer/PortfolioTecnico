@@ -1,3 +1,6 @@
+#Autor: Matheus Fernandes Duarte
+#Receber 2 números como entrada, e informar a relação entre eles (maior, menor ou igual).
+
 #!/bin/bash
 #Inicia o código
 
