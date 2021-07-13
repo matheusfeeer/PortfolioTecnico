@@ -2,12 +2,12 @@
 ### Matheus Fernandes Duarte, 17 anos - 2A
 ### São José, 2021
 
-##Fundamentos de TI
+## Fundamentos de TI
 
 - [Exemplo de código com for](FundamentosTI/exemplos/Sequência1ateN.sh)
 
 
-#Sobre mim
+# Sobre mim
 ## Resumo das qualificações
 - Pontualidade, criatividade e dedicação;
 - Habilidades comunicativas desenvolvidas;
