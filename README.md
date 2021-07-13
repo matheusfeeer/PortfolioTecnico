@@ -3,7 +3,8 @@
 ### São José, 2021
 
 ##Fundamentos de TI
-[Exemplo de código com for](FundamentosTI/exemplos/Sequência1ateN.sh)
+
+- [Exemplo de código com for](FundamentosTI/exemplos/Sequência1ateN.sh)
 
 
 #Sobre mim
