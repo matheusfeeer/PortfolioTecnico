@@ -5,6 +5,10 @@
 ## Fundamentos de TI
 
 - [Exemplo de código com for](FundamentosTI/exemplos/Sequência1ateN.sh)
+- [Exemplo de código com if](FundamentosTI/exemplos/16-06/tabuada.sh)
+- [Exemplo de código com while](FundamentosTI/exemplos/16-06/fatorial.sh)
+- [Exemplo de código com cut](FundamentosTI/Dia07DeJulho/Exercicio11LetraA.sh)
+- [Uso de cut para definir uma variável](FundamentosTI/Dia07DeJulho/Exercicio5Explicado.sh)
 
 
 # Sobre mim
