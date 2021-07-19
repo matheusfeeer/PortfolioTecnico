@@ -10,6 +10,16 @@
 - [Exemplo de código com cut](FundamentosTI/Dia07DeJulho/Exercicio11LetraA.sh)
 - [Uso de cut para definir uma variável](FundamentosTI/Dia07DeJulho/Exercicio5Explicado.sh)
 
+## Lógica Computacional - Códigos
+- [5 de março](LogicaComputacional/5DeMarço)
+- [12 de março](LogicaComputacional/12DeMarço)
+- [26 de março](LogicaComputacional/26DeMarço)
+- [9 de abril](LogicaComputacional/9DeAbril)
+- [23 de abril](LogicaComputacional/9DeAbril)
+- [21 de maio](LogicaComputacional/21DeMaio)
+- [11 de junho](LogicaComputacional/11DeJunho)
+- [18 e 25 de junho](LogicaComputacional/18E25DeJunho)
+
 
 # Sobre mim
 ## Resumo das qualificações
