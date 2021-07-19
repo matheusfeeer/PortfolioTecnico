@@ -15,7 +15,7 @@
 - [12 de março](LogicaComputacional/12DeMarço)
 - [26 de março](LogicaComputacional/26DeMarço)
 - [9 de abril](LogicaComputacional/9DeAbril)
-- [23 de abril](LogicaComputacional/9DeAbril)
+- [23 de abril](LogicaComputacional/23DeAbril)
 - [21 de maio](LogicaComputacional/21DeMaio)
 - [11 de junho](LogicaComputacional/11DeJunho)
 - [18 e 25 de junho](LogicaComputacional/18E25DeJunho)
