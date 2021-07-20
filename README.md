@@ -59,5 +59,5 @@
 
 
 ## Idiomas
-- Inglês: avançado
-- Espanhol: intermediário
+- Inglês: Avançado
+- Espanhol: Intermediário
