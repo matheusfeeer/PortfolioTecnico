@@ -11,14 +11,14 @@
 - [Uso de cut para definir uma variável](FundamentosTI/Dia07DeJulho/Exercicio5Explicado.sh)
 
 ## Lógica Computacional - Códigos
-- [5 de março](LogicaComputacional/5DeMarço)
-- [12 de março](LogicaComputacional/12DeMarço)
-- [26 de março](LogicaComputacional/26DeMarço)
-- [9 de abril](LogicaComputacional/9DeAbril)
-- [23 de abril](LogicaComputacional/23DeAbril)
-- [21 de maio](LogicaComputacional/21DeMaio)
-- [11 de junho](LogicaComputacional/11DeJunho)
-- [18 e 25 de junho](LogicaComputacional/18E25DeJunho)
+- [Operações básicas](LogicaComputacional/5DeMarço)
+- [Exercício prático do pescador + peso da pesca](LogicaComputacional/12DeMarço)
+- [Sistema de controle de peso](LogicaComputacional/26DeMarço)
+- [Saudação com nome e idade](LogicaComputacional/9DeAbril)
+- [Loop infinito](LogicaComputacional/23DeAbril)
+- [Exemplo com while](LogicaComputacional/21DeMaio)
+- [Idade atual](LogicaComputacional/11DeJunho)
+- [Óptica geométrica](LogicaComputacional/18E25DeJunho)
 
 
 # Sobre mim
