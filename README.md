@@ -9,6 +9,9 @@
 - [Exemplo de código com while](FundamentosTI/exemplos/16-06/fatorial.sh)
 - [Exemplo de código com cut](FundamentosTI/Dia07DeJulho/Exercicio11LetraA.sh)
 - [Uso de cut para definir uma variável](FundamentosTI/Dia07DeJulho/Exercicio5Explicado.sh)
+- [Script que lista os usuários do sistema](FundamentosTI/Prova_03_08_2021/nome_usuarios.sh)
+- [Script que lista as permissões do usuário dono de determinado arquivo ou diretório](FundamentosTI/Prova_03_08_2021/permissoes_usuario_dono.sh)
+
 
 ## Lógica Computacional - Códigos
 - [Operações básicas](LogicaComputacional/5DeMarço)
