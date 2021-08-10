@@ -11,7 +11,8 @@
 - [Uso de cut para definir uma variável](FundamentosTI/Dia07DeJulho/Exercicio5Explicado.sh)
 - [Script que lista os usuários do sistema](FundamentosTI/Prova_03_08_2021/nome_usuarios.sh)
 - [Script que lista as permissões do usuário dono de determinado arquivo ou diretório](FundamentosTI/Prova_03_08_2021/permissoes_usuario_dono.sh)
-
+- [Questão 1 da Avaliação prática do dia 10/08](FundamentosTI/avaliacao_pratica/questao1.sh)
+- [Questão 2 da Avaliação prática do dia 10/08](FundamentosTI/avaliacao_pratica/questao2.sh)
 
 ## Lógica Computacional - Códigos
 - [Operações básicas](LogicaComputacional/5DeMarço)
