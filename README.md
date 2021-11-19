@@ -23,6 +23,8 @@
 - [Exemplo com while](LogicaComputacional/21DeMaio)
 - [Idade atual](LogicaComputacional/11DeJunho)
 - [Óptica geométrica](LogicaComputacional/18E25DeJunho)
+- [Código de cadastro de aluno](LogicaComputacional/Aula2A)
+- [Código de cadastro dos animais em PetShops](LogicaComputacional/PetShop)
 
 
 # Sobre mim
