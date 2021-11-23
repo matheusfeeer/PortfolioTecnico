@@ -25,8 +25,8 @@
 - [Óptica geométrica](LogicaComputacional/18E25DeJunho)
 
 ## Lógica de Programação - Códigos em ZIP feitos no NetBeans
-- [Código de cadastro de aluno](LogicaComputacional/Aula2A.zip)
-- [Código de cadastro de animais em PetShop](LogicaComputacional/PetShop.zip)
+- [Código de cadastro de aluno](LogicaDeProgramacao/CadastroAluno)
+- [Código de cadastro de animais em PetShop](LogicaDeProgramacao/PetShop)
 
 # Sobre mim
 ## Resumo das qualificações
