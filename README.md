@@ -24,9 +24,9 @@
 - [Idade atual](LogicaComputacional/11DeJunho.java)
 - [Óptica geométrica](LogicaComputacional/18E25DeJunho.java)
 
-## Lógica de Programação - Códigos em ZIP feitos no NetBeans
-- [Código de cadastro de aluno](LogicaDeProgramacao/CadastroAluno)
-- [Código de cadastro de animais em PetShop](LogicaDeProgramacao/PetShop)
+## Lógica de Programação - feitos no NetBeans
+- [Cadastro de aluno](LogicaDeProgramacao/CadastroAluno)
+- [Cadastro de animais em PetShop](LogicaDeProgramacao/PetShop)
 
 ## Programação de Aplicativos
 - [Calculadora de variáveis de Geometria Plana](ProgramacaoDeAplicativos/Geometria)
