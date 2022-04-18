@@ -33,7 +33,7 @@
 - [Simulador de câmera](ProgramacaoDeAplicativos/CameraDeCria.zip)
 
 ## Fundamentos de Banco de Dados
-- [Organização de uma festa na piscina]
+- [Organização de uma festa na piscina](FundamentosBancoDeDados/FestaNaPiscina)
 
 ## Modelagem de Sistemas
 - [Diagrama de administração de uma Copa do Mundo](ModelagemDeSistemas/CopaDoMundo.drawio.pdf)
