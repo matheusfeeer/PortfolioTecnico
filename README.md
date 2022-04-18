@@ -1,6 +1,6 @@
 # Portfólio da Área Técnica da Escola S
-### Matheus Fernandes Duarte, 17 anos - 2A
-### São José, 2021
+### Matheus Fernandes Duarte, 17 anos - 3A
+### São José, 2022
 
 ## Fundamentos de TI
 
@@ -27,6 +27,15 @@
 ## Lógica de Programação - Códigos em ZIP feitos no NetBeans
 - [Código de cadastro de aluno](LogicaDeProgramacao/CadastroAluno)
 - [Código de cadastro de animais em PetShop](LogicaDeProgramacao/PetShop)
+
+## Programação de Aplicativos
+- [App que calcula variáveis de Geometria Plana]
+
+## Fundamentos de Banco de Dados
+- [Organização de uma festa na piscina]
+
+## Modelagem de Sistemas
+- [Diagrama de administração de uma Copa do Mundo]
 
 # Sobre mim
 ## Resumo das qualificações
