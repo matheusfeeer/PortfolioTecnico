@@ -40,6 +40,11 @@
 - [Diagrama de administração de uma Copa do Mundo](ModelagemDeSistemas/CopaDoMundo)
 - [Diagrama de organização de um evento de Jogos Vorazes](ModelagemDeSistemas/JogosVorazes)
 
+## Autorias em Python
+- [Dissecador de variável](AutoriasPython/dissecacaoDeVariavel.py)
+- [Calculador de litros de tinta necessários para pintar uma área x](AutoriasPython/areaELitroDeTinta.py)
+- [Tabuada de um número qualquer)[AutoriasPython/tabuadaDeUmNumeroQualquer.py)
+
 # Sobre mim
 ## Resumo das qualificações
 - Pontualidade, criatividade e dedicação;
