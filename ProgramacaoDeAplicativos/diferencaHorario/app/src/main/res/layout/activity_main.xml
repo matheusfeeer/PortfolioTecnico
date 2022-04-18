@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/fundo"
+    tools:context=".MainActivity">
+
+    <EditText
+        android:id="@+id/horaInicial"
+        android:layout_width="141dp"
+        android:layout_height="56dp"
+        android:layout_marginStart="35dp"
+        android:layout_marginTop="50dp"
+        android:layout_marginEnd="25dp"
+        android:layout_marginBottom="25dp"
+        android:ems="10"
+        android:hint="Hora inicial"
+        android:inputType="number"
+        android:textAlignment="center"
+        android:textColor="#F4F4F4"
+        android:textColorHint="#FFFFFF"
+        app:layout_constraintBottom_toTopOf="@+id/horaFinal"
+        app:layout_constraintEnd_toStartOf="@+id/minInicial"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <EditText
+        android:id="@+id/minFinal"
+        android:layout_width="141dp"
+        android:layout_height="56dp"
+        android:layout_marginStart="25dp"
+        android:layout_marginTop="25dp"
+        android:layout_marginEnd="35dp"
+        android:ems="10"
+        android:hint="Min. final"
+        android:inputType="number"
+        android:textAlignment="center"
+        android:textColor="#F4F4F4"
+        android:textColorHint="#FFFFFF"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toEndOf="@+id/horaFinal"
+        app:layout_constraintTop_toBottomOf="@+id/minInicial" />
+
+    <EditText
+        android:id="@+id/horaFinal"
+        android:layout_width="141dp"
+        android:layout_height="56dp"
+        android:layout_marginStart="35dp"
+        android:layout_marginTop="25dp"
+        android:layout_marginEnd="25dp"
+        android:ems="10"
+        android:hint="Hora final"
+        android:inputType="number"
+        android:textAlignment="center"
+        android:textColor="#F4F4F4"
+        android:textColorHint="#FFFFFF"
+        app:layout_constraintEnd_toStartOf="@+id/minFinal"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/horaInicial" />
+
+    <EditText
+        android:id="@+id/minInicial"
+        android:layout_width="141dp"
+        android:layout_height="56dp"
+        android:layout_marginStart="25dp"
+        android:layout_marginTop="50dp"
+        android:layout_marginEnd="35dp"
+        android:ems="10"
+        android:hint="Min. inicial "
+        android:inputType="number"
+        android:textAlignment="center"
+        android:textColor="#F4F4F4"
+        android:textColorHint="#FFFFFF"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toEndOf="@+id/horaInicial"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <TextView
+        android:id="@+id/resultadoHora"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="35dp"
+        android:layout_marginTop="100dp"
+        android:layout_marginEnd="25dp"
+        android:hint="Resultado Hora"
+        android:textColor="#FFFFFF"
+        android:textColorHint="#FFFFFF"
+        android:textSize="16sp"
+        app:layout_constraintEnd_toStartOf="@+id/resultadoMin"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/horaFinal" />
+
+    <TextView
+        android:id="@+id/resultadoMin"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="25dp"
+        android:layout_marginTop="100dp"
+        android:layout_marginEnd="35dp"
+        android:hint="Resultado Min."
+        android:textColor="#FFFFFF"
+        android:textColorHint="#FFFFFF"
+        android:textSize="16sp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toEndOf="@+id/resultadoHora"
+        app:layout_constraintTop_toBottomOf="@+id/minFinal" />
+
+    <Button
+        android:id="@+id/botaoSoma"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="25dp"
+        android:layout_marginTop="100dp"
+        android:layout_marginEnd="25dp"
+        android:layout_marginBottom="125dp"
+        android:onClick="somaHorario"
+        android:text="Soma"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toStartOf="@+id/botaoReset"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/resultadoHora" />
+
+    <Button
+        android:id="@+id/botaoReset"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="5dp"
+        android:layout_marginTop="100dp"
+        android:layout_marginEnd="5dp"
+        android:layout_marginBottom="125dp"
+        android:onClick="resetar"
+        android:text="Reset"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toStartOf="@+id/botaoSubtrai"
+        app:layout_constraintStart_toEndOf="@+id/botaoSoma"
+        app:layout_constraintTop_toBottomOf="@+id/resultadoHora" />
+
+    <Button
+        android:id="@+id/botaoSubtrai"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="25dp"
+        android:layout_marginTop="100dp"
+        android:layout_marginEnd="25dp"
+        android:layout_marginBottom="125dp"
+        android:onClick="subtraiHorario"
+        android:text="SUBTRAI"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toEndOf="@+id/botaoReset"
+        app:layout_constraintTop_toBottomOf="@+id/resultadoHora" />
+
+</androidx.constraintlayout.widget.ConstraintLayout>
