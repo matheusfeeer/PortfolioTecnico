@@ -32,7 +32,7 @@
 - [App que calcula variáveis de Geometria Plana](ProgramacaoDeAplicativos/Geometria)
 - [Simulador de câmera](ProgramacaoDeAplicativos/Camera)
 - [Calculadora de intervalo de horários](ProgramacaoDeAplicativos/diferencaHorario)
-- 
+
 ## Fundamentos de Banco de Dados
 - [Organização de uma festa na piscina](FundamentosBancoDeDados/FestaNaPiscina)
 
