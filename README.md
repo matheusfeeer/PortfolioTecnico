@@ -30,7 +30,7 @@
 
 ## Programação de Aplicativos
 - [App que calcula variáveis de Geometria Plana](ProgramacaoDeAplicativos/Geometria)
-- [Simulador de câmera](ProgramacaoDeAplicativos/Camera)
+- [Simulador de câmera](ProgramacaoDeAplicativos/CameraDeCria)
 - [Calculadora de intervalo de horários](ProgramacaoDeAplicativos/diferencaHorario)
 
 ## Fundamentos de Banco de Dados
