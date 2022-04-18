@@ -1,0 +1,1 @@
+### Simula uma função de câmera e foi inserido no portfólio por conta da sua funcionalidade e por ter sido o primeiro arquivo onde editamos a pasta manifests, a fim de mexer com o permissionamento do celular.
