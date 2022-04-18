@@ -29,7 +29,8 @@
 - [Código de cadastro de animais em PetShop](LogicaDeProgramacao/PetShop)
 
 ## Programação de Aplicativos
-- [App que calcula variáveis de Geometria Plana]
+- [App que calcula variáveis de Geometria Plana](ProgramacaoDeAplicativos/Geometria.zip)
+- [Simulador de câmera](ProgramacaoDeAplicativos/CameraDeCria.zip)
 
 ## Fundamentos de Banco de Dados
 - [Organização de uma festa na piscina]
