@@ -29,16 +29,16 @@
 - [Código de cadastro de animais em PetShop](LogicaDeProgramacao/PetShop)
 
 ## Programação de Aplicativos
-- [App que calcula variáveis de Geometria Plana](ProgramacaoDeAplicativos/Geometria) - Serve para calcular variáveis de Geometria Plana conforme desejo do usuário. Foi inserido no portfólio por conta de ter sido o primeiro meu app programado sozinho.
-- [Simulador de câmera](ProgramacaoDeAplicativos/Camera) - Simula uma função de câmera e foi inserido no portfólio por conta da sua funcionalidade e por ter sido o primeiro arquivo onde editamos a pasta manifests, a fim de mexer com o permissionamento.
-- [Calculadora de intervalo de horários](ProgramacaoDeAplicativos/Diferença de Horários) - Calcula o intervalo entre horários a serem definidos pelo usuário.
-
+- [App que calcula variáveis de Geometria Plana](ProgramacaoDeAplicativos/Geometria)
+- [Simulador de câmera](ProgramacaoDeAplicativos/Camera)
+- [Calculadora de intervalo de horários](ProgramacaoDeAplicativos/diferencaHorario)
+- 
 ## Fundamentos de Banco de Dados
-- [Organização de uma festa na piscina](FundamentosBancoDeDados/FestaNaPiscina) - A organização da festa na piscina foi um trabalho escolhido para ser inserido no portfólio por conta do desenvolvimento intelectual adquirido enquanto fora produzido. Ele contemplou diversas habilidades, como: produção de slides, criação de diagramas, códigos para visualizações úteis, exportações de Excel, etc.
+- [Organização de uma festa na piscina](FundamentosBancoDeDados/FestaNaPiscina)
 
 ## Modelagem de Sistemas
-- [Diagrama de administração de uma Copa do Mundo](ModelagemDeSistemas/CopaDoMundo.drawio.pdf)- O diagrama de organização de uma Copa do Mundo veio ao portfólio por conta da sua importância técnica, ele foi o responsável por eu ter conseguido entender bem como se produz diagramas e suas relações de agregação/composição.
-- [Diagrama de organização de um evento de Jogos Vorazes](ModelagemDeSistemas/JogosVorazes.drawio.pdf) - O diagrama de organização de Jogos Vorazes está no portfólio porque foi o primeiro que produzi sozinho e obtive excelência. Ademais, o tema é interessante.
+- [Diagrama de administração de uma Copa do Mundo](ModelagemDeSistemas/CopaDoMundo)
+- [Diagrama de organização de um evento de Jogos Vorazes](ModelagemDeSistemas/JogosVorazes)
 
 # Sobre mim
 ## Resumo das qualificações
