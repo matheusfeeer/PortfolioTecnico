@@ -29,7 +29,7 @@
 - [Código de cadastro de animais em PetShop](LogicaDeProgramacao/PetShop)
 
 ## Programação de Aplicativos
-- [App que calcula variáveis de Geometria Plana](ProgramacaoDeAplicativos/Geometria)
+- [Calculadora de variáveis de Geometria Plana](ProgramacaoDeAplicativos/Geometria)
 - [Simulador de câmera](ProgramacaoDeAplicativos/CameraDeCria)
 - [Calculadora de intervalo de horários](ProgramacaoDeAplicativos/diferencaHorario)
 
