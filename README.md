@@ -36,7 +36,8 @@
 - [Organização de uma festa na piscina]
 
 ## Modelagem de Sistemas
-- [Diagrama de administração de uma Copa do Mundo]
+- [Diagrama de administração de uma Copa do Mundo](ModelagemDeSistemas/CopaDoMundo.drawio.pdf)
+- [Diagrama de organização de um evento de Jogos Vorazes](ModelagemDeSistemas/JogosVorazes.drawio.pdf)
 
 # Sobre mim
 ## Resumo das qualificações
