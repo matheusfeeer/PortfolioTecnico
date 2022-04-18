@@ -1,0 +1,1 @@
+### O diagrama de organização de uma Copa do Mundo veio ao portfólio por conta da sua importância técnica, ele foi o responsável por eu ter conseguido entender bem como se produz diagramas e suas relações de agregação/composição.
