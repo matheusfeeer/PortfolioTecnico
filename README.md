@@ -15,14 +15,14 @@
 - [Questão 2 da Avaliação prática do dia 10/08](FundamentosTI/avaliacao_pratica/questao2.sh)
 
 ## Lógica Computacional - Códigos
-- [Operações básicas](LogicaComputacional/5DeMarço)
-- [Exercício prático do pescador + peso da pesca](LogicaComputacional/12DeMarço)
-- [Sistema de controle de peso](LogicaComputacional/26DeMarço)
-- [Saudação com nome e idade](LogicaComputacional/9DeAbril)
-- [Loop infinito](LogicaComputacional/23DeAbril)
-- [Exemplo com while](LogicaComputacional/21DeMaio)
-- [Idade atual](LogicaComputacional/11DeJunho)
-- [Óptica geométrica](LogicaComputacional/18E25DeJunho)
+- [Operações básicas](LogicaComputacional/5DeMarço.java)
+- [Exercício prático do pescador + peso da pesca](LogicaComputacional/12DeMarço.java)
+- [Sistema de controle de peso](LogicaComputacional/26DeMarço.java)
+- [Saudação com nome e idade](LogicaComputacional/9DeAbril.java)
+- [Loop infinito](LogicaComputacional/23DeAbril.java)
+- [Exemplo com while](LogicaComputacional/21DeMaio.java)
+- [Idade atual](LogicaComputacional/11DeJunho.java)
+- [Óptica geométrica](LogicaComputacional/18E25DeJunho.java)
 
 ## Lógica de Programação - Códigos em ZIP feitos no NetBeans
 - [Código de cadastro de aluno](LogicaDeProgramacao/CadastroAluno)
