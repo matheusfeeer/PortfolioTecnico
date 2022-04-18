@@ -29,25 +29,24 @@
 - [Código de cadastro de animais em PetShop](LogicaDeProgramacao/PetShop)
 
 ## Programação de Aplicativos
-- [App que calcula variáveis de Geometria Plana](ProgramacaoDeAplicativos/Geometria.zip)
-- [Simulador de câmera](ProgramacaoDeAplicativos/CameraDeCria.zip)
+- [App que calcula variáveis de Geometria Plana](ProgramacaoDeAplicativos/Geometria.zip) - Esse código serve para calcular variáveis de Geometria Plana conforme desejo do usuário. Foi inserido no portfólio por conta de ter sido o primeiro meu app programado sozinho.
+- [Simulador de câmera](ProgramacaoDeAplicativos/CameraDeCria.zip) - Esse código simula uma função de câmera e foi inserido no portfólio por conta da sua funcionalidade e por ter sido o primeiro arquivo onde editamos a pasta manifests, a fim de mexer com o permissionamento.
 
 ## Fundamentos de Banco de Dados
-- [Organização de uma festa na piscina](FundamentosBancoDeDados/FestaNaPiscina)
+- [Organização de uma festa na piscina](FundamentosBancoDeDados/FestaNaPiscina) - A organização da festa na piscina foi um trabalho escolhido para ser inserido no portfólio por conta do desenvolvimento intelectual adquirido enquanto fora produzido. Ele contemplou diversas habilidades, como: produção de slides, criação de diagramas, códigos para visualizações úteis, exportações de Excel, etc.
 
 ## Modelagem de Sistemas
-- [Diagrama de administração de uma Copa do Mundo](ModelagemDeSistemas/CopaDoMundo.drawio.pdf)
-- [Diagrama de organização de um evento de Jogos Vorazes](ModelagemDeSistemas/JogosVorazes.drawio.pdf)
+- [Diagrama de administração de uma Copa do Mundo](ModelagemDeSistemas/CopaDoMundo.drawio.pdf)- O diagrama de organização de uma Copa do Mundo veio ao portfólio por conta da sua importância técnica, ele foi o responsável por eu ter conseguido entender bem como se produz diagramas e suas relações de agregação/composição.
+- [Diagrama de organização de um evento de Jogos Vorazes](ModelagemDeSistemas/JogosVorazes.drawio.pdf) - O diagrama de organização de Jogos Vorazes está no portfólio porque foi o primeiro que produzi sozinho e obtive excelência. Ademais, o tema é interessante.
 
 # Sobre mim
 ## Resumo das qualificações
 - Pontualidade, criatividade e dedicação;
 - Habilidades comunicativas desenvolvidas;
-- Capacidade de trabalhar sob pressão (inteligência intrapessoal);
+- Capacidade de trabalhar sob pressão;
 - Habilidade com vendas e Marketing digital;
 - Liderança;
-- Habilidade com gestão de finanças pessoais;
-- Excelente relacionamento interpessoal.
+- Habilidade com gestão de finanças pessoais.
 
 
 ## Qualificações Técnicas
@@ -55,7 +54,7 @@
 
 - Pacote Office – Word e PowerPoint – intermediários, Excel – básico. 
 
-- Conhecimento inicial na linguagem Java
+- Conhecimento intermediário na linguagem Java
 
 - Conhecimento em Fundamentos de TI
 
