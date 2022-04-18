@@ -58,20 +58,22 @@
 ## Qualificações Técnicas
 - Curso Copywriting – Rock University (4h30min).
 
-- Pacote Office – Word e PowerPoint – intermediários, Excel – básico. 
+- Pacote Office – Word e PowerPoint – intermediários, Excel – intermediário. 
 
-- Conhecimento intermediário na linguagem Java
+- Conhecimento intermediário na linguagem Java e Python
 
 - Conhecimento em Fundamentos de TI
 
 - Conhecimento em Fundamentos de Redes
+
+- Conhecimento em Fundamentos de Banco de Dados
 
 -	Melhor desempenho das turmas de primeiro ano na área de Matemática e suas Tecnologias na primeira realização do Simulado de ENEM – Geekie (2020), aplicado no Ensino Médio Integrado com Itinerário de Formação Técnica Profissional.
 
 - Representante do colégio Centro Educacional São Judas Tadeu na Olímpiada Brasileira de Matemática das Escolas Públicas na fase municipal do Nível 2 no ano de 2019.
 
 ## Formação Acadêmica
- - Cursando o segundo ano do Ensino Médio pela Escola S de São José (antigo SESI SENAI).
+ - Cursando o terceiro ano do Ensino Médio pela Escola S de São José (antigo SESI SENAI).
    Previsão de Término (Ensino Médio completo): dezembro de 2022.
 
  - Cursando o curso Técnico em Desenvolvimento de Sistemas com duração total de 2 anos.
