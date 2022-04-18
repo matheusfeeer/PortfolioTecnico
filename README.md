@@ -29,8 +29,9 @@
 - [Código de cadastro de animais em PetShop](LogicaDeProgramacao/PetShop)
 
 ## Programação de Aplicativos
-- [App que calcula variáveis de Geometria Plana](ProgramacaoDeAplicativos/Geometria.zip) - Esse código serve para calcular variáveis de Geometria Plana conforme desejo do usuário. Foi inserido no portfólio por conta de ter sido o primeiro meu app programado sozinho.
-- [Simulador de câmera](ProgramacaoDeAplicativos/CameraDeCria.zip) - Esse código simula uma função de câmera e foi inserido no portfólio por conta da sua funcionalidade e por ter sido o primeiro arquivo onde editamos a pasta manifests, a fim de mexer com o permissionamento.
+- [App que calcula variáveis de Geometria Plana](ProgramacaoDeAplicativos/Geometria) - Serve para calcular variáveis de Geometria Plana conforme desejo do usuário. Foi inserido no portfólio por conta de ter sido o primeiro meu app programado sozinho.
+- [Simulador de câmera](ProgramacaoDeAplicativos/Camera) - Simula uma função de câmera e foi inserido no portfólio por conta da sua funcionalidade e por ter sido o primeiro arquivo onde editamos a pasta manifests, a fim de mexer com o permissionamento.
+- [Calculadora de intervalo de horários](ProgramacaoDeAplicativos/Diferença de Horários) - Calcula o intervalo entre horários a serem definidos pelo usuário.
 
 ## Fundamentos de Banco de Dados
 - [Organização de uma festa na piscina](FundamentosBancoDeDados/FestaNaPiscina) - A organização da festa na piscina foi um trabalho escolhido para ser inserido no portfólio por conta do desenvolvimento intelectual adquirido enquanto fora produzido. Ele contemplou diversas habilidades, como: produção de slides, criação de diagramas, códigos para visualizações úteis, exportações de Excel, etc.
