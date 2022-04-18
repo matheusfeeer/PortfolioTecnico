@@ -42,7 +42,7 @@
 
 ## Autorias em Python
 - [Dissecador de variável](AutoriasPython/dissecacaoDeVariavel.py)
-- [Calculador de litros de tinta necessários para pintar uma área x](AutoriasPython/areaELitroDeTinta.py)
+- [Calculador de litros de tinta necessários para pintar uma área x](AutoriasPython/areaELitroTinta.py)
 - [Tabuada de um número qualquer](AutoriasPython/tabuadaDeUmNumeroQualquer.py)
 
 # Sobre mim
