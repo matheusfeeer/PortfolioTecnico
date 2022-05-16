@@ -45,6 +45,9 @@
 - [Calculador de litros de tinta necessários para pintar uma área x](AutoriasPython/areaELitroTinta.py)
 - [Tabuada de um número qualquer](AutoriasPython/tabuadaDeUmNumeroQualquer.py)
 
+## Autoria em HTML/CSS
+- [Tutorial básico/iniciante de como usar HTML e CSS](Autorias_HTML_CSS)
+
 # Sobre mim
 ## Resumo das qualificações
 - Pontualidade, criatividade e dedicação;
