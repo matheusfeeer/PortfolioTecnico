@@ -1,5 +1,5 @@
 # Portfólio da Área Técnica da Escola S
-### Matheus Fernandes Duarte, 17 anos
+### Matheus Fernandes Duarte, 18 anos
 ### São José, 2022
 
 ## Fundamentos de TI
