@@ -44,6 +44,7 @@
 - [Dissecador de variável](AutoriasPython/dissecacaoDeVariavel.py)
 - [Calculador de litros de tinta necessários para pintar uma área x](AutoriasPython/areaELitroTinta.py)
 - [Tabuada de um número qualquer](AutoriasPython/tabuadaDeUmNumeroQualquer.py)
+- [Firebase User Manipulation](https://github.com/DevPorfirio/Firebase_manipulation)
 
 ## Autoria em HTML/CSS
 - [Tutorial básico/iniciante de como usar HTML e CSS](Autorias_HTML_CSS)
@@ -87,5 +88,5 @@
 
 
 ## Idiomas
-- Inglês: Avançado
+- Inglês: Avançado (Cambridge B2 Certificated)
 - Espanhol: Intermediário
