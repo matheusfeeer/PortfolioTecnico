@@ -24,7 +24,7 @@
 - [Idade atual](LogicaComputacional/11DeJunho.java)
 - [Óptica geométrica](LogicaComputacional/18E25DeJunho.java)
 
-## Lógica de Programação - feitos no NetBeans
+## Lógica de Programação - códigos feitos no NetBeans
 - [Cadastro de aluno](LogicaDeProgramacao/CadastroAluno)
 - [Cadastro de animais em PetShop](LogicaDeProgramacao/PetShop)
 
