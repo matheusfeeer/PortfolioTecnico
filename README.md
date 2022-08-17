@@ -28,6 +28,10 @@
 - [Cadastro de aluno](LogicaDeProgramacao/CadastroAluno)
 - [Cadastro de animais em PetShop](LogicaDeProgramacao/PetShop)
 
+## Área Técnica - 2º Trimestre
+- [Controle do Fumo](https://github.com/matheusfeeer/controleDeFumo)
+- [Marcola Testes Vocacionais](https://github.com/matheusfeeer/PortfolioTecnico/tree/main/%C3%81rea%20T%C3%A9cnica%20-%202%C2%BA%20Trimestre/MarcolaTestesVocacionais)
+
 ## Programação de Aplicativos
 - [Calculadora de variáveis de Geometria Plana](ProgramacaoDeAplicativos/Geometria)
 - [Simulador de câmera](ProgramacaoDeAplicativos/CameraDeCria)
