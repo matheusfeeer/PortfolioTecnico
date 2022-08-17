@@ -28,6 +28,9 @@
 - [Cadastro de aluno](LogicaDeProgramacao/CadastroAluno)
 - [Cadastro de animais em PetShop](LogicaDeProgramacao/PetShop)
 
+## Área Técnica - 2º Trimestre
+- [Marcola Testes Vocacionais](Área Técnica - 2º Trimestre/Marcola Testes Vocacionais)
+
 ## Programação de Aplicativos
 - [Calculadora de variáveis de Geometria Plana](ProgramacaoDeAplicativos/Geometria)
 - [Simulador de câmera](ProgramacaoDeAplicativos/CameraDeCria)
