@@ -57,6 +57,9 @@
 ## Autoria em HTML/CSS
 - [Tutorial básico/iniciante de como usar HTML e CSS](Autorias_HTML_CSS)
 
+## Autoria de Desenvolvimento de Sistemas
+- [Primeiro Pitch do Evolutionis](DesenvolvimentoDeSistemas/Evolutionis/primeiro_pitch_evolutionis.mp4)
+
 # Sobre mim
 ## Resumo das qualificações
 - Pontualidade, criatividade e dedicação;
