@@ -32,6 +32,10 @@
 - [Controle do Fumo](https://github.com/matheusfeeer/controleDeFumo)
 - [Marcola Testes Vocacionais](https://github.com/matheusfeeer/PortfolioTecnico/tree/main/%C3%81rea%20T%C3%A9cnica%20-%202%C2%BA%20Trimestre/MarcolaTestesVocacionais)
 
+## Área Técnica - 2º Trimestre
+- [Projeto Urna Eletrônica](ProgramacaoDeAplicativos/UrnaEletronica)
+- [Controle de Carros - FIGMA DO SAEP](https://github.com/matheusfeeer/PortfolioTecnico/blob/main/ProgramacaoDeAplicativos/ControleDeCarros_SAEP.txt)
+
 ## Programação de Aplicativos
 - [Calculadora de variáveis de Geometria Plana](ProgramacaoDeAplicativos/Geometria)
 - [Simulador de câmera](ProgramacaoDeAplicativos/CameraDeCria)
